@@ -6832,6 +6832,10 @@ react-dev-utils@^7.0.0:
 react-dom@^16.7.0:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
+<<<<<<< HEAD
+=======
+  integrity sha512-1nL7PIq9LTL3fthPqwkvr2zY7phIPjYrT0jp4HjyEQrEROnw4dG41VVwi/wfoCneoleqrNX7iAD+pXebJZwrwA==
+>>>>>>> 86fd7281c663ab23985a2e4e4239b159fa8b837d
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
